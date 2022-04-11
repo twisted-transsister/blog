@@ -1,0 +1,3 @@
+[submodule "twistedtranssisterblog/hugo-theme-stack"]
+	path = twistedtranssisterblog/hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack.git
